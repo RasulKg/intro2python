@@ -1,5 +1,5 @@
 print "vvedite lyboe slovo"
-a=raw input ("***")
+a=raw_input ("***")
 print "kakuy bukvu ishesh?"
 i=raw_input ("***")
 for char in stroka:

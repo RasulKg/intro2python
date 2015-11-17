@@ -12,7 +12,7 @@ while(logic !=1):
 	if (x==inp):
 		print "ty ugadal chiclo, za popitka" "popytka"
     	logic=1
-	else:
+    else:
 
 		print "ty neugadal"
 		popitka +=1
