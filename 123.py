@@ -6,14 +6,13 @@ n=int(raw_input(">"))
 logic = 0
 popitka = 1
 while(logic !=1):
-
 	print "vvedite chislo"
 	inp = int (raw_input(">"))
-	if (x==inp):
-		print "ty ugadal chiclo, za popitka" "popytka"
-    	logic=1
-    else:
-
-		print "ty neugadal"
-		popitka +=1
-		print
+if (x==inp):
+	print "ty ugadal chiclo, za popitka" "popytka"
+	logic=1
+	
+else:
+	print "ty neugadal"
+	popitka +=1
+	print

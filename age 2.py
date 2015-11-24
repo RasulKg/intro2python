@@ -1,7 +1,7 @@
 print "введите текущий год"
-cyear=raw_imput(">")
+cyear=raw_input(">")
 print="enter date of borth"
-byear=raw_imput(">")
+byear=raw_input(">")
 age=int(cyer)-int(buear)
 print "ваш возраст", age
 if age >0 and <6

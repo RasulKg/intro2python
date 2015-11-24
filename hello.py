@@ -1,3 +1,3 @@
 print "Enter your name",
-name=raw_imput()
+name=raw_input()
 print "hello", name

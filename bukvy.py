@@ -1,7 +1,7 @@
 print "vvedite lyboe slovo"
-a=raw_input ("***")
+a = raw_input ("***")
 print "kakuy bukvu ishesh?"
-i=raw_input ("***")
+i = raw_input ("***")
 for char in stroka:
-	if char==mychar
-	
+	if char == mychar:
+		print 
